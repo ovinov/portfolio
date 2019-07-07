@@ -1,0 +1,12 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "index.html",
+  "homepage": "https://ovinov.github.io/portfolio",
+  "scripts": {
+    "deploy": "gh-pages -scr"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
